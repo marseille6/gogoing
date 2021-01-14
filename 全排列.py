@@ -3,7 +3,7 @@
 __author__ = 'marseille'
 __date__ = '2021/1/12 10:02'
 """
-from copy import deepcopy
+
 class tail:
     def recursion(self, arrayIn:list, arrayOutSingle, arrayOutAll):
 
@@ -29,11 +29,4 @@ class Solution:
 
 
 if __name__ == "__main__":
-    a = [1,2,3]
-    print(id(a + [4]))
-    print(id(a))
-    so = tail()
-
-    b = []
-    print(so.recursion(a,[],b))
-    print(b)
+    pass
