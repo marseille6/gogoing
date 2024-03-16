@@ -1,3 +1,3 @@
-# leetcode
+# leetcode or something else
 
-leetCode刷题总结
+# 无聊时间的一些coding
